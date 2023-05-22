@@ -1,0 +1,144 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "963f02ff7b7ec8459f9b8fe4cabf0a366707c59f7eefab38815abab112343e22"
+
+[[files]]
+file = "README.md"
+hash = "9d3049ccf5ebaf40118fd60c6ad7519133f5853d3d9cce92474dac0bf40d872b"
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "fceb5e51e94c45f9010b6d2f6ccc477e78176c6d3565756d4b4ae811cfd3dd2b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
+metafile = true
+
+[[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "6b791b4da04c58e6e79c4e096b668f9e3b2d640192cf098819519e543c45e16c"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "2cd321c717835c90ef48ba83a172b0a8dbb0bf4c238bc043234066d3fa03d294"
+metafile = true
+
+[[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "fcf5d03138839b03446ea18611d706102016071ac021b6a12c361abdbf848c68"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "6ddc3bbe998bc708a6d986368c3c798ea0df279b0de8a9a5cb67b0bc26cea5b8"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5c697f16c739c73ccbd52d98fdd5f753fdecb7c8635180e7176367cabe890ca5"
+metafile = true
+
+[[files]]
+file = "mods/create-extended-cogs.pw.toml"
+hash = "deebbae8bf703ac82151bcdd05571095156f45eccb0cb7ff68ae5997ab5150d2"
+metafile = true
+
+[[files]]
+file = "mods/create-extended-flywheels.pw.toml"
+hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-extruder.pw.toml"
+hash = "2cbd283101bf9523b97bb711df7a2e2dda115fa537d9ac25993f9485988ef6b7"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-geodes.pw.toml"
+hash = "b5f40d6ab8a6b895127ac07f9060d2ad73096f8d6a02233a7dacd3a957a84d5c"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "de99bdd93717fa3b1190ab6f5cfbd3268071337e9c7f390559c07e88b99d5d2e"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c14f367d6613911833f2b158642db0e9e9852cba78618cdf683233dbbc5c7b2a"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
+metafile = true
+
+[[files]]
+file = "mods/emendatus-enigmatica-create-addon.pw.toml"
+hash = "9db9d85845b1c543a1cff035da95dc7e1e86510e4ee5c530c8c858dbec810f63"
+metafile = true
+
+[[files]]
+file = "mods/emendatus-enigmatica.pw.toml"
+hash = "7767bc86e92885a960ed13aa93aaef7121f7a189608443bdf9c0253417eba2b0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "666393d8db2a7f4efd6073d474f23a85b4624aabcf6270f9eda0a444b382e5b4"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
+metafile = true
+
+[[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "de2abcda50684d335d55f0387197ab7d054f95339609aea0742a396e05584376"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "e2eb35bbb6073950ccb1e0fcf841b446e6697fec47bd4a794f928f95c07b9170"
+metafile = true
+
+[[files]]
+file = "mods/project-843867.pw.toml"
+hash = "09747b1911fa1c439bb4af7397e3bd3c2e8ba5e845036359dc0dba6cb3ea7b34"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "bded3ca42fb95fd9438e47ea8b9d03fb9a04040773f41ba4f29121f008c8398b"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Epic"
+author = "Hexasphere"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "39fac74faa21a80d03c252d6b78c5550e46965df2367eb4d91cedca962b40bf9"
+
+[versions]
+forge = "43.2.11"
+minecraft = "1.19.2"

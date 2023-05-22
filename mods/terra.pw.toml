@@ -1,0 +1,13 @@
+name = "Terra"
+filename = "Terra-forge-6.2.1-BETA+358e09d05.jar"
+side = "both" 
+
+[download]
+url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/ASNLY5FV/Terra-forge-6.2.1-BETA%2B358e09d05.jar"
+hash-format = "sha1"
+hash = "d23ce12e75178003e9e053cacf60c7ef4b39526c"
+
+[update]
+[update.modrinth]
+mod-id = "FIlZB9L0"
+version = "ASNLY5FV"
