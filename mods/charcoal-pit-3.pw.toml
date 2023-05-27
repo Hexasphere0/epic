@@ -1,0 +1,13 @@
+name = "Charcoal Pit 3"
+filename = "CharcoalPit[1.18.2]-3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3d694892e6a94bdadcfce7461503ffdb9fb0146"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3948347
+project-id = 632918

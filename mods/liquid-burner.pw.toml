@@ -1,13 +1,13 @@
 name = "Liquid Burner"
-filename = "liquidburner-1.19.2-0.3a.jar"
+filename = "liquidburner-1.18.2-0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bae20bbf789dcaea01126c0085fb0154a4d08b75"
+hash = "ab5eb9d39aa00098b4b3fc74791518e48c85af38"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4432723
+file-id = 4432731
 project-id = 711034
